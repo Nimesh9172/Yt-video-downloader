@@ -1,3 +1,4 @@
+# 1. In your terminal first run this pip install pytube.
 from pytube import YouTube
 
 url = input("Enter youtube video link: ")
